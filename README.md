@@ -128,4 +128,4 @@ Soutrik Mukherjee
 
 ---
 
-*This project was created to demonstrate proficiency in data visualization for machine learning as required for ML internship positions.*
+*This project was created to demonstrate proficiency in data visualization for machine learning*
